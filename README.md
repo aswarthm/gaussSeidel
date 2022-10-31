@@ -1,5 +1,6 @@
 # gaussSeidel
 Implementation of Gauss Seidel approximation to solve a system of equations with 3 variables
+![image](https://user-images.githubusercontent.com/96608251/199007225-6fa5a8b1-68c2-4f29-b4e0-7dcdf1093310.png)
 
 Input :  
 5 -1 1 10  
